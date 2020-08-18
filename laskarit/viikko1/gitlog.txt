@@ -1,0 +1,48 @@
+
+commit 64beb5bbbc481b00c99111901b7b59648a9f43d2 (HEAD -> master)
+Author: jcbehm <yompatchi@gmail.com>
+Date:   Mon Aug 17 16:11:15 2020 +0300
+
+    minor bug fixes
+
+commit d240275f6c9670ca1d75c2cc80539169c3591dab
+Author: jcbehm <yompatchi@gmail.com>
+Date:   Mon Aug 17 16:05:55 2020 +0300
+
+    lis<C3><A4>tty fileit<C3><A4>
+
+commit 4dd524fc20d17517853862ce96c4eeb74f973de4
+Author: jcbehm <yompatchi@gmail.com>
+Date:   Mon Aug 17 15:50:25 2020 +0300
+
+    lis<C3><A4><C3><A4> muutoksia
+                                                                                       lis<C3><A4><C3><A4> muutoksia                                                  
+commit 6903ca162a6a8d921d2a82040c41b10e69f6d029
+Author: jcbehm <yompatchi@gmail.com>
+Date:   Mon Aug 17 15:37:09 2020 +0300
+
+    uudelleennimetty tiedosto
+
+commit 9c4a63ece2a70637fc01f3c481681dadea0e3c49
+Author: jcbehm <yompatchi@gmail.com>
+Date:   Mon Aug 17 15:34:14 2020 +0300
+
+    toinen tiedosto heivattu ns. vittuun
+
+commit 9fb708cd984de9b05dae241cac6e5df38a56ca4f
+Author: jcbehm <yompatchi@gmail.com>
+Date:   Mon Aug 17 15:29:34 2020 +0300
+
+    Kolme lorem ipsumia l<C3><A4>hti helvettiin.
+
+commit 33c6eca44e91ecd02871507ef757af85ac39c36b
+Author: jcbehm <yompatchi@gmail.com>
+Date:   Mon Aug 17 15:25:06 2020 +0300
+
+    lis<C3><A4>tty tiedostoon lorem ipsumia
+
+commit 8a5b086c3aebda09db93dfcff1b3699902b84389                                    Author: jcbehm <yompatchi@gmail.com>                                               Date:   Mon Aug 17 14:19:01 2020 +0300                                                  
+Author: jcbehm <yompatchi@gmail.com>
+Date:   Mon Aug 17 13:51:47 2020 +0300
+
+    tiedosto.txt luotu

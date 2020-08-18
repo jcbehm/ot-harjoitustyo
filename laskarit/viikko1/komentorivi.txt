@@ -1,0 +1,10 @@
+
+Folder PATH listing
+Volume serial number is E41B-5BAD
+C:\USERS\OMISTAJA\KURSSIT
+ÃÄÄÄot-harjoitustyo
+³   ÀÄÄÄlaskarit
+³       ÀÄÄÄviikko1
+ÀÄÄÄot_viikko1
+    ÃÄÄÄstuff
+    ÀÄÄÄtiedostoja
