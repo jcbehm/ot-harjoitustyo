@@ -8,3 +8,5 @@ T�m� on hauskaa, mutta ei suinkaan kovin __helppoa__.
 [gitlog.txt](https://github.com/Yompatchi/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
 [komentorivi.txt](https://github.com/Yompatchi/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
+
+TÄSSÄ ON UUSI MUUTOS; HURJAA!
